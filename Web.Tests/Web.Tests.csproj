@@ -37,7 +37,7 @@
   <ItemGroup>
     <Reference Include="DijkstraLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\DijkstraLib\DijkstraLib\bin\Debug\DijkstraLib.dll</HintPath>
+      <HintPath>.\DijkstraLib.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework">
